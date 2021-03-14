@@ -1,0 +1,3 @@
+- Hi, I am @Kocrachon
+- Most of my work is private / closed source projects. This is not my "Public Profile".
+- I like to collaborate on projects related to Security using Python or Go.
